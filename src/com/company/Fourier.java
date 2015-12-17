@@ -14,6 +14,7 @@ public class Fourier
     private double dx;
     private double sum=0;
 
+    //aaaaa
     public Fourier() {
         dx = (b - a) / n;
     }
